@@ -10,3 +10,4 @@ experience de chatbot ou d'IA
 - Il faut avoir une expérience ou un événement avec l'IA.
 - un groupe de touristes peut se familiariser avec une expérience IA
 - Des groupes de touristes pourraient se connecter via une interaction pilotée par l'IA. Cette idée suggère de créer un chatbot ou une expérience IA qui aide les touristes à se connaître, par exemple en facilitant les présentations, en partageant des informations sur le groupe ou en organisant des activités collaboratives. L'IA pourrait servir de guide numérique ou de facilitateur social, améliorant l'expérience de voyage en la rendant plus interactive et personnalisée pour chaque participant.
+- Accessibilité : Faciliter l’accès à des services ou informations pour les personnes en situation de handicap (reconnaissance vocale, synthèse vocale).
